@@ -1,4 +1,4 @@
-# FACTS Dataset README
+# FACTS Dataset
 
 ## Overview
 This dataset includes labeled video clips and annotations for action recognition tasks in fencing and boxing. It is structured to support fine-grained classification and model training.
