@@ -7,7 +7,7 @@ This dataset includes labeled video clips and annotations for action recognition
 
 ## Fencing Dataset
 - **Annotations**: Available in `filtered_data_800.csv`.
-- **Videos**: Available [here](https://drive.google.com/drive/folders/1iP9bZ57tZfnkNY9OJhhpKSx-A5letBFd?usp=drive_link).
+- **Videos**: Available [here](https://drive.google.com/drive/folders/1iP9bZ57tZfnkNY9OJhhpKSx-A5letBFd?usp=sharing).
 
 ---
 
