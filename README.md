@@ -7,7 +7,7 @@ This dataset includes labeled video clips and annotations for action recognition
 
 ## Fencing Dataset
 - **Annotations**: Available in `filtered_data_800.csv`.
-- **Videos**: Available [here]([https://drive.google.com/drive/folders/1iP9bZ57tZfnkNY9OJhhpKSx-A5letBFd?usp=sharing](https://www.dropbox.com/scl/fo/l3kgvx2ujdq4gxi6vivl4/AO3-ttBw5aS-X4RhZM46F-c?rlkey=xds3b4s28tdo8cz7ycq9qqb6u&st=wyv50plr&dl=0)).
+- **Videos**: Available [here](https://www.dropbox.com/scl/fo/l3kgvx2ujdq4gxi6vivl4/AO3-ttBw5aS-X4RhZM46F-c?rlkey=xds3b4s28tdo8cz7ycq9qqb6u&st=5hhck9cm&dl=0).
 ---
 
 ## Boxing Dataset
